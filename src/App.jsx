@@ -15,9 +15,16 @@ function App() {
   )
 
   return (
-    <div className="testimonial-grid">
-       {testimonials}
-    </div>
+    <>
+    <main>
+        <div className="testimonial-grid">
+          {testimonials}
+        </div>
+    </main>
+    <footer>
+      created by <a href="https://www.markusbotsch.com">Markus Botsch</a>
+    </footer>
+    </>
   )
 }
 
