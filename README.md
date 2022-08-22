@@ -49,3 +49,7 @@ Users should be able to:
 - Twitter - [@markusbotsch](https://www.twitter.com/markusbotsch)
 
 
+
+[![Netlify Status](https://api.netlify.com/api/v1/badges/66f4a66d-9bf5-4e5b-bcee-c3dcc7839b0b/deploy-status)](https://app.netlify.com/sites/markusbotsch-fem-testimonials-grid/deploys)
+
+
