@@ -21,10 +21,10 @@ Users should be able to:
 
 - View the optimal layout for the site depending on their device's screen size
 
-### Screenshot
+### Screenshots
 
 ![Desktop](./screenshot-fem-grid-desktop.png)
-![Mobile](./screenshot-fem-grid-mobile.png)
+![Mobile](./screenshot-fem-grid-mobile.png | width=300)
 
 
 ### Links
