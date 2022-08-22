@@ -24,7 +24,7 @@ Users should be able to:
 ### Screenshots
 
 ![Desktop](./screenshot-fem-grid-desktop.png)
-![Mobile]<img src="./screenshot-fem-grid-mobile.png" width="300">
+<img src="./screenshot-fem-grid-mobile.png" width="300">
 
 
 ### Links
