@@ -26,6 +26,11 @@
   -webkit-text-size-adjust: 100%;
 }
 
+body {
+  height: 100vh;
+}
+
+
 footer {
   margin-top: 5rem;
   text-align: center;
